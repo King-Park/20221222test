@@ -1,3 +1,5 @@
-public TestFile{
-  오류로난리
+package com.shop;
+
+public class TestFile {
+	
 }
